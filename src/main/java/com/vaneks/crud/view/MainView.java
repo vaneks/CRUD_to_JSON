@@ -16,13 +16,13 @@ public class MainView {
         String select = scanner.nextLine();
         switch (select) {
             case "1" :
-                teamView.templateMethod("Team");
+                teamView.view("Team");
                 break;
             case "2" :
-                developerView.templateMethod("Developer");
+                developerView.view("Developer");
                 break;
             case "3" :
-                skillView.templateMethod("Skill");
+                skillView.view("Skill");
                 break;
         }
     }
