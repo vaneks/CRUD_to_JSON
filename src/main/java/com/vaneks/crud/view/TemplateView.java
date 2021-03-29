@@ -6,10 +6,7 @@ import java.util.Scanner;
 
 public abstract class TemplateView {
     private Scanner scanner = new Scanner(System.in);
-    public void templateMethod(String name) {
 
-        view(name) ;
-    }
     public void view(String name) {
 
         System.out.print("Выберите действие, и нажмите Enter: \n" +
