@@ -1,0 +1,1 @@
+[{"id":1,"firstName":"ivan","lastName":"ivanov","skills":[{"id":11,"name":"git"},{"id":5,"name":"java"}]},{"id":2,"firstName":"ivan","lastName":"petrov","skills":[{"id":5,"name":"java"},{"id":11,"name":"git"},{"id":12,"name":"unix"}]},{"id":3,"firstName":"Alex","lastName":"Black","skills":[{"name":"2"},{"name":"3"},{"name":"5"},{"name":"6"}]}]
